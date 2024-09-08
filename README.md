@@ -26,6 +26,22 @@ To get started with FinAgent, follow these steps:
    ```bash
    git clone https://github.com/yourusername/FinAgent.git
 
-2.Navigate to the project directory:
-cd FinAgent
+2. Navigate to the project directory:
+    ```bash
+   cd FinAgent
+
+3. Install the required dependencies:
+    ```bash
+   pip install -r requirements.txt
+
+## Usage
+Run the Application:
+
+           python app.py
+
+Access the Web Interface: Open your browser and go to http://localhost:5000 to interact with FinAgent.
+
+## Configuration
+Configuration settings can be adjusted in the config.json file. Here, you can specify API keys, model settings, and other preferences.
+
 
