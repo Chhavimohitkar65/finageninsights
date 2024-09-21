@@ -15,6 +15,8 @@
 - 🎓 **Educational Insights**: Explains the reasoning behind stock movements and emerging financial trends for better understanding.
 
 ## 🧑‍💻 **Language Models Used**
+![MediMatchBot (4)](https://github.com/user-attachments/assets/c682c697-febc-47de-8067-f754d02ab47b)
+
 
 - **FinBERT**: A specialized model for financial sentiment analysis and risk assessment.
 - **GPT-4.0**: A powerful language model for generating personalized financial advice and insights.
