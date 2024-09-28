@@ -12,7 +12,7 @@
 - 🔗 **Unified Data Integration**: Seamlessly combines data from various financial sources, offering comprehensive insights.
 - ⏱️ **Real-Time Analysis**: Provides up-to-date information and dynamic risk assessments to keep users informed.
 - 🧩 **Personalized Recommendations**: Offers tailored financial advice, adapting to each user's needs.
-- 🎓 **Educational Insights**: Explains the reasoning behind stock movements and emerging financial trends for better understanding.
+- 🎓 **Educational Insights**: Explains the reasoning behind stock movements and emerging financial trends for better understanding. 
 
   
 ![FinAgent (1)](https://github.com/user-attachments/assets/6be3bd80-2103-4dee-9fe3-fbfbf4358f2b)
